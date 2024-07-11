@@ -1,6 +1,9 @@
 # Data pdf_resume_files
 data
 
+# Database
+test.db
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
