@@ -27,8 +27,6 @@ https://www.kaggle.com/datasets/danicardeal/resume-occupation-and-seniority
 
 ## Project Structure
 
-
-
 .
 ├── .venv
 ├── app.py
